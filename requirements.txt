@@ -1,0 +1,14 @@
+umap-learn
+sentence-transformers
+plotly
+wordcloud
+keybert
+spacy
+transformers
+torch
+tqdm
+numpy
+pandas
+scikit-learn
+gpt4all
+matplotlib
