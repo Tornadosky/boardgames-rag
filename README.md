@@ -28,8 +28,8 @@ This project performs analysis on board game rules using machine learning and la
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-project.git
-    cd your-project
+    git clone https://github.com/Tornadosky/boardgames-rag.git
+    cd boardgames-rag
     ```
 
 2. Install dependencies:
